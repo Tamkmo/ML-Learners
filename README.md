@@ -10,7 +10,9 @@ The models we used to conduct our analysis:
 - Logistic Regression
 - Decision Tree
 
----
+## Final Analysis Files
+- TSLA_final_analysis.ipynb
+- AMZN_final_analysis.ipynb
 
 ## Data Sources:
 
@@ -106,7 +108,7 @@ The models are evaluated using accuracy, precision, and recall.
 
         Inputs(X):
         Market Sentiment – The percentage of investors which feel bullish during a given week (AAII survey)
-        SMA (Short and Long) – 5 and 10 days
+        SMA (Short and Long) – 7 and 20 days
         Twitter Sentiment Score – csv file from kaggle
 
 
